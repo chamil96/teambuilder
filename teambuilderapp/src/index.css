@@ -53,6 +53,7 @@ button{
   width: 45%;
   height: 350px;
   padding: 20px;
+  margin-bottom: 10px;
   float: left;
   text-align: center;
   text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
